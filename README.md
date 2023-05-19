@@ -1,7 +1,7 @@
 [![MasterHead](https://www.quo.digital/static/flutter-d5ae7a0432784c5881434498ab7f75f6.gif)]
 <h1 align="center">Hi 👋, I'm Belal Ashraf</h1>
 <h3 align="center">A passionate Flutter Developer from Egypt</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalnayzak&label=Profile%20views&color=0e75b6&style=flat" alt="belalnayzak" /> </p>
