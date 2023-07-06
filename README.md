@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1LQfVk4z3auonwe6d5hFgI8NyBQWR6QZn/view.gif)]
+[![MasterHead](https://drive.google.com/file/d/1LQfVk4z3auonwe6d5hFgI8NyBQWR6QZn/view)]
 <h1 align="center">Hi 👋, I'm Belal Ashraf</h1>
 <h3 align="center">A passionate Flutter Developer from Egypt</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
