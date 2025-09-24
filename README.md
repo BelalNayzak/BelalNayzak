@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects/experiences are available at [https://www.BellDevs.com](https://my-website-portfolio-8b4cb.web.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/Belal-Ashraf](https://www.linkedin.com/in/belal-ashraf-%F0%9F%87%B5%F0%9F%87%B8-406a1a10a/)
-
-- 💬 Ask me about **Flutter, Native Android, Trending Technologies**
+- 📝 I regularly write articles on [https://www.linkedin.com/Belal-Ashraf](https://www.linkedin.com/in/belal-ashraf-%F0%9F%87%B5%F0%9F%87%B8-406a1a10a/)
 
 - 📫 How to reach me **belal.nayzak@gmail.com**
+
+- 💬 Ask me about **Flutter, Native Android, Trending Technologies**
 
 - ⚡ Fun fact **I'm a witcher ✨😎💻📲!**
 
