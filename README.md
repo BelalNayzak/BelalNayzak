@@ -10,15 +10,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belalnayzak" alt="belalnayzak" /></a> </p>
  -->
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/Belal-Ashraf](https://www.linkedin.com/in/belal-ashraf-%F0%9F%87%B5%F0%9F%87%B8-406a1a10a/)
+- 👨‍💻 All of my projects/experiences are available at [https://www.BellDevs.com](https://my-website-portfolio-8b4cb.web.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/Belal-Ashraf](https://www.linkedin.com/in/belal-ashraf-%F0%9F%87%B5%F0%9F%87%B8-406a1a10a/)
 
 - 💬 Ask me about **Flutter, Native Android, Trending Technologies**
 
 - 📫 How to reach me **belal.nayzak@gmail.com**
-
-- 📄 Know about my experiences [https://www.BellDevs.com](https://my-website-portfolio-8b4cb.web.app/)
 
 - ⚡ Fun fact **I'm a witcher ✨😎💻📲!**
 
